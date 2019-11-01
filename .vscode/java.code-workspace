@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "/Users/liujiangyong/WORK"
+		},
+		{
+			"path": "/Users/liujiangyong/java_work"
+		}
+	],
+	"settings": {
+		"terminal.integrated.rendererType": "canvas",
+		"files.exclude": {
+			"**/.classpath": true,
+			"**/.project": true,
+			"**/.settings": true,
+			"**/.factorypath": true
+		}
+	}
+}

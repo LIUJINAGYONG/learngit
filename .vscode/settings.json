@@ -1,0 +1,4 @@
+{
+    "terminal.integrated.rendererType": "canvas",
+    "c-cpp-compile-run.run-in-external-terminal": true
+}
