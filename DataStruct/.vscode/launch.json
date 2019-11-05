@@ -1,0 +1,25 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ServerTCP",
+            "request": "launch",
+            "mainClass": "ServerTCP",
+            "projectName": "DataStruct_f44a3ff9"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ClientTCP",
+            "request": "launch",
+            "mainClass": "ClientTCP",
+            "projectName": "DataStruct_f44a3ff9"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - server",
+            "request": "launch",
+            "mainClass": "server",
+            "projectName": "DataStruct_f44a3ff9"
+        }
+    ]
+}
